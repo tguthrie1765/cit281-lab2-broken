@@ -1,7 +1,9 @@
 ![Image of Yaktocat](https://avatars.githubusercontent.com/u/18133?s=200&v=4)
 
 In this lab I learned how to use the command line interface to use git. I learned about git statuses, ignoring files, wildcards, and cloning. 
+
 <br>
+
 Here is the code from lab 2
 ```javascript
 /*
